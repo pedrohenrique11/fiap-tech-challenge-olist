@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+kagglehub
+prophet
+statsmodels
+nltk
