@@ -1,0 +1,92 @@
+{
+  "taxa_cancelamento": 0.011928309046138941,
+  "pedidos_total": 96203,
+  "receita_total": 13179777.950000001,
+  "ticket_medio": 136.99965645561988,
+  "crescimento_pedidos_yoy": 1.3992817202345775,
+  "crescimento_receita_yoy": 1.4111273118236132,
+  "share_receita_top_uf": 0.3835054709703968,
+  "top_uf": "SP",
+  "share_receita_sudeste": 0.6541795599826474,
+  "share_receita_top10_categorias": 0.6245494735364643,
+  "ufs_subpenetradas": [
+    "AM",
+    "RR",
+    "AP"
+  ],
+  "correlacao_renda_pedidos": 0.7722000425407972,
+  "pct_atraso": 0.06788769580990198,
+  "dias_entrega_mediana": 10.209988425925927,
+  "dias_entrega_media": 12.538460850026429,
+  "dias_prometidos_media": 23.648391074852903,
+  "folga_media_no_prazo": 13.441196806137924,
+  "share_tempo_transporte": 0.7418267037338727,
+  "uf_mais_atraso": "AL",
+  "pct_atraso_uf_pior": 0.21464646464646464,
+  "mes_pico_atraso": "mar/18",
+  "pct_atraso_mes_pico": 0.18963301442239042,
+  "regiao_frete_mais_caro": "Norte",
+  "frete_pct_regiao_mais_cara": 0.3567954220314735,
+  "frete_pct_sudeste": 0.20630042547651595,
+  "share_atrasos_top10_rotas": 0.3748277446026642,
+  "share_pedidos_top10_rotas": 0.19441181667931354,
+  "top_rotas": [
+    "SP→RJ",
+    "SP→BA",
+    "SP→ES",
+    "SP→CE",
+    "SP→SC"
+  ],
+  "nota_media": 4.156299706990373,
+  "nota_no_prazo": 4.291157408445651,
+  "nota_atrasado": 2.270617748510505,
+  "pct_nota_baixa_no_prazo": 0.09196850744937105,
+  "pct_nota_baixa_atrasado": 0.6095544327055581,
+  "pct_nota_baixa_15mais": 0.7554269175108539,
+  "fator_maior_impacto": "Entrega atrasada",
+  "nota_simulada_30pct": 4.196757017426956,
+  "nota_simulada_sem_atraso": 4.291157408445651,
+  "pct_reclamacoes_sobre_entrega": 0.6545573199912986,
+  "comentarios_negativos": 9194,
+  "clientes_unicos": 93096,
+  "taxa_recompra": 0.029958322591733266,
+  "recompra_1a_no_prazo": 0.030352284778899803,
+  "recompra_1a_atrasada": 0.024574669187145556,
+  "retencao_mensal_maxima": 0.007162661737523105,
+  "retencao_mes1_media": 0.004756662494421572,
+  "pct_clientes_uma_compra": 0.9700416774082667,
+  "segmentos_rfm": {
+    "Campeões": {
+      "pct_clientes": 0.0128,
+      "pct_receita": 0.0245
+    },
+    "Leais": {
+      "pct_clientes": 0.0171,
+      "pct_receita": 0.0305
+    },
+    "Novos (1 compra recente)": {
+      "pct_clientes": 0.3872,
+      "pct_receita": 0.3837
+    },
+    "Em risco (alto valor)": {
+      "pct_clientes": 0.2221,
+      "pct_receita": 0.4195
+    },
+    "Hibernando": {
+      "pct_clientes": 0.3608,
+      "pct_receita": 0.1418
+    }
+  },
+  "mape_backtest": 0.05044524127860548,
+  "previsao_6m_total": 37847.60417222249,
+  "previsao_6m_media_mensal": 6307.9340287037485,
+  "media_mensal_ultimos_6m": 6525.5,
+  "pct_atraso_top10_rotas": 0.1308880928193338,
+  "modelo_previsao": "Suavização exponencial simples",
+  "erros_modelos": {
+    "Suavização exponencial simples": 0.0504,
+    "Holt com tendência amortecida": 0.2642,
+    "Prophet (tendência linear)": 0.3192
+  },
+  "media_mensal_2018": 6597.125
+}
