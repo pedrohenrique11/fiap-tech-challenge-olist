@@ -1,4 +1,4 @@
-# Dicionário de dados: fato_pedidos.csv
+# Dicionário de dados: aba fato_pedidos (olist_powerbi.xlsx)
 
 Uma linha por pedido entregue no período analisado.
 

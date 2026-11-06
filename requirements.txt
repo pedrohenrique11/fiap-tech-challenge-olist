@@ -6,3 +6,4 @@ kagglehub
 prophet
 statsmodels
 nltk
+openpyxl

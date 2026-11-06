@@ -37,6 +37,7 @@
     "SP→CE",
     "SP→SC"
   ],
+  "pct_atraso_top10_rotas": 0.1308880928193338,
   "nota_media": 4.156299706990373,
   "nota_no_prazo": 4.291157408445651,
   "nota_atrasado": 2.270617748510505,
@@ -77,16 +78,15 @@
       "pct_receita": 0.1418
     }
   },
-  "mape_backtest": 0.05044524127860548,
-  "previsao_6m_total": 37847.60417222249,
-  "previsao_6m_media_mensal": 6307.9340287037485,
-  "media_mensal_ultimos_6m": 6525.5,
-  "pct_atraso_top10_rotas": 0.1308880928193338,
   "modelo_previsao": "Suavização exponencial simples",
+  "mape_backtest": 0.05044524099941474,
   "erros_modelos": {
     "Suavização exponencial simples": 0.0504,
     "Holt com tendência amortecida": 0.2642,
     "Prophet (tendência linear)": 0.3192
   },
+  "previsao_6m_total": 37847.60417222249,
+  "previsao_6m_media_mensal": 6307.9340287037485,
+  "media_mensal_ultimos_6m": 6525.5,
   "media_mensal_2018": 6597.125
 }

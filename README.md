@@ -60,7 +60,7 @@ O dataset é baixado automaticamente do Kaggle (`olistbr/brazilian-ecommerce`) v
 
 Para rodar localmente: `pip install -r requirements.txt` e abra o notebook no Jupyter.
 
-> `data/processed/fato_pedidos.csv` está compactado como `fato_pedidos.zip` por causa do limite de tamanho do GitHub. Descompacte antes de usar no Power BI.
+> As tabelas para o Power BI ficam em `data/processed/olist_powerbi.xlsx`, com uma aba por tabela.
 
 ## Dados e governança
 
