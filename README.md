@@ -12,7 +12,7 @@ Relatório executivo para investidores construído a partir do dataset público 
 
 | Entregável | Link |
 |---|---|
-| Apresentação executiva | [Abrir a apresentação](apresentação/) |
+| Apresentação executiva | [Abrir a apresentação](./Olist logística, satisfação e recompra.pdf) |
 | Notebook com toda a análise | [`notebooks/olist_analise.ipynb`](notebooks/olist_analise.ipynb) |
 | Dashboard Power BI | [`dashboard/`](dashboard/) |
 
