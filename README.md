@@ -2,7 +2,7 @@
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[seu-usuario]/olist-logistica-satisfacao/blob/main/notebooks/olist_analise.ipynb)
 
-Tech Challenge, Fase 1 · FIAP Pós Tech Data Analytics · [Seu nome]
+Tech Challenge, Fase 1 · FIAP Pós Tech Data Analytics
 
 Relatório executivo para investidores construído a partir do dataset público de e-commerce da Olist (Kaggle), com dados de jan/2017 a ago/2018, enriquecido com dados do IBGE.
 
@@ -12,8 +12,7 @@ Relatório executivo para investidores construído a partir do dataset público 
 
 | Entregável | Link |
 |---|---|
-| Apresentação executiva | [Abrir a apresentação](https://claude.ai/artifact/Fjwb6KYg9TB1mXduzHrRxP) |
-| Vídeo (até 5 min) | [link do vídeo] |
+| Apresentação executiva | [Abrir a apresentação](apresentação/) |
 | Notebook com toda a análise | [`notebooks/olist_analise.ipynb`](notebooks/olist_analise.ipynb) |
 | Dashboard Power BI | [`dashboard/`](dashboard/) |
 
